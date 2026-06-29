@@ -9,15 +9,15 @@ and the UCDM Protocol.
 Everything here is public by design. Transparency is a constitutional 
 commitment of the Foundation, not a policy choice.
 
-## What lives here
+## Contents
 
-| Folder | Contents |
-|---|---|
-| `/governance` | Governance Framework & Internal Bylaws |
-| `/founding-documents` | Acta Constitutiva and corporate registration |
+- **Governance Framework v1.5** — TLF's internal bylaws and governance 
+  structure, covering the Consejo Directivo, Asamblea General, Technical 
+  Steering Committee, Working Groups, and affiliated entity relationships.
 
-Further folders for TSC, Working Group, Consejo, and Asamblea records 
-will be added as the Foundation's public sessions commence.
+- **Acta Constitutiva** — TLF's founding charter, filed March 20, 2026, 
+  before Notaría Pública Interina No. 175, Naucalpan de Juárez 
+  (CUD A202603102338416405).
 
 ## Learn more
 
@@ -34,18 +34,18 @@ Foundation A.C. (TLF) — el guardián sin fines de lucro del Protocolo ARIA
 y el Protocolo UCDM.
 
 Todo lo aquí contenido es público por diseño. La transparencia es un 
-compromiso constitucional de la Fundación, no una decisión de política 
-interna.
+compromiso constitucional de la Fundación, no una decisión de política interna.
 
-## Qué contiene este repositorio
+## Contenido
 
-| Carpeta | Contenido |
-|---|---|
-| `/governance` | Marco de Gobernanza y Reglamento Interno |
-| `/founding-documents` | Acta Constitutiva y registro corporativo |
+- **Marco de Gobernanza v1.5** — Reglamento interno y estructura de 
+  gobernanza de TLF, que cubre el Consejo Directivo, la Asamblea General, 
+  el Comité Técnico de Dirección, los Grupos de Trabajo y las relaciones 
+  con entidades afiliadas.
 
-Las carpetas para el TSC, Grupos de Trabajo, Consejo y Asamblea se 
-agregarán conforme comiencen las sesiones públicas de la Fundación.
+- **Acta Constitutiva** — La carta fundacional de TLF, firmada el 20 de 
+  marzo de 2026 ante la Notaría Pública Interina No. 175 de Naucalpan de 
+  Juárez (CUD A202603102338416405).
 
 ## Más información
 
